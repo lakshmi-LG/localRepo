@@ -1,1 +1,2 @@
 this is local1.txt
+and this is altered in githubRepo folder.
